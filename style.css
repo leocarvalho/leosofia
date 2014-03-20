@@ -1,5 +1,22 @@
-body {
-	font-family: 'Rancho', serif;
+body{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+h1{
+	font-family: 'Rancho';
         font-size: 48px;
-	text-shadow: 4px 4px 4px #aaa;
+	text-shadow: 2px 2px #000;
+	color: #C8B7B7;
+}
+.big{
+	font-family: 'Rancho';
+        font-size: 70px;
+	text-shadow: 2px 2px #000;
+	color: #C8B7B7;
+}
+.medium{
+	font-family: 'Rancho';
+        font-size: 35px;
+	color: #000;
 }
