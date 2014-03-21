@@ -3,20 +3,47 @@ body{
 	margin-right: auto;
 	text-align: center;
 }
+
 h1{
-	font-family: 'Rancho';
-        font-size: 48px;
-	text-shadow: 2px 2px #000;
-	color: #C8B7B7;
-}
-.big{
 	font-family: 'Rancho';
         font-size: 70px;
 	text-shadow: 2px 2px #000;
-	color: #C8B7B7;
+	color: #E3DBDB;
+	font-style:normal;
+	font-weight:normal;
 }
-.medium{
+
+#names{
 	font-family: 'Rancho';
-        font-size: 35px;
-	color: #000;
+        font-size: 80px;
+	text-shadow: 2px 2px #000;
+	color: #E3DBDB;
+}
+#date{
+	font-family: 'Rancho';
+        font-size: 50px;
+	color: black;
+}
+
+h2{
+	font-family: 'Rancho';
+	text-shadow: 2px 2px #000;
+        font-size: 70px;
+	color: #E3DBDB;
+	font-style:normal;
+	font-weight:normal;
+}
+
+h3{
+	font-family: 'Rancho';
+        font-size: 50px;
+	color: black;
+	font-weight:normal;
+}
+
+.place{
+}
+
+.place p{
+	font-family: sans-serif;
 }
