@@ -6,6 +6,14 @@ body{
 	background-repeat:no-repeat;
 }
 
+#background1{
+	position: fixed;
+	width: 500px;
+	bottom: 0px;
+	right: 0px;
+	z-index: -1;
+}
+
 h1{
 	font-family: 'Rancho';
         font-size: 70px;
@@ -13,6 +21,7 @@ h1{
 	color: #E3DBDB;
 	font-style:normal;
 	font-weight:normal;
+	margin: 0px;
 }
 
 #names{
@@ -57,6 +66,7 @@ h3{
 	float: left;
        	border-style: outset;
 	border-width: 1px;
+	background-color: rgba(255, 255, 255, 0.6);
 }
 
 .place p{
