@@ -82,3 +82,9 @@ h3{
 .place iframe{
 	margin: 10px;
 }
+
+#disqus_thread{
+	width: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+}
