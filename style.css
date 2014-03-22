@@ -17,8 +17,8 @@ body{
 h1{
 	font-family: 'Rancho';
         font-size: 70px;
-	text-shadow: 2px 2px #000;
-	color: #E3DBDB;
+	color: #DED5FF;
+	text-shadow: 2px 2px #110245;
 	font-style:normal;
 	font-weight:normal;
 	margin: 0px;
@@ -26,21 +26,21 @@ h1{
 
 #names{
 	font-family: 'Rancho';
-        font-size: 80px;
-	text-shadow: 2px 2px #000;
-	color: #E3DBDB;
+        font-size: 110px;
+	text-shadow: 2px 2px #110245;
+	color: #9c8dd2;
 }
 #date{
 	font-family: 'Rancho';
         font-size: 50px;
-	color: black;
+	color: #110245;
 }
 
 h2{
 	font-family: 'Rancho';
-	text-shadow: 2px 2px #000;
         font-size: 70px;
-	color: #E3DBDB;
+	color: #DED5FF;
+	text-shadow: 2px 2px #110245;
 	font-style:normal;
 	font-weight:normal;
 	margin: 0;
@@ -49,7 +49,7 @@ h2{
 h3{
 	font-family: 'Rancho';
         font-size: 50px;
-	color: black;
+	color: #110245;
 	font-weight:normal;
 	margin: 0;
 }
