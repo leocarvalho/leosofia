@@ -4,4 +4,3 @@ function displayImage(){
 	document.getElementById("buddy_image").src = 'imgs/out-'+num.toString()+'.png'
 }
 
-displayImage();
