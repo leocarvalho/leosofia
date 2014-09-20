@@ -6,6 +6,16 @@ body{
 	background-repeat:no-repeat;
 }
 
+a{
+	font-family: 'Rancho';
+        font-size: 40px;
+	text-shadow: 2px 2px #110245;
+	color: #DED5FF;
+	font-weight:normal;
+	text-decoration: none;
+	text-shadow: 1px 1px #110245;
+}
+
 #background1{
 	position: fixed;
 	width: 500px;
@@ -83,6 +93,28 @@ h3{
 .place iframe{
 	margin: 10px;
 }
+
+.giftlist{
+	width: 500px;
+	height: 300px;
+	margin: 10px;
+	float: left;
+       	border-style: outset;
+	border-width: 1px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+.giftlist p{
+	font-family: sans-serif;
+	margin: 0;
+}
+
+.giftlist img{
+	width: 400px;
+	margin: 10px;
+}
+
+
 
 #disqus_thread{
 	width: 1050px;
